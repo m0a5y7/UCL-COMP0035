@@ -1,0 +1,7 @@
+setuptools
+pandas
+numpy
+bcrypt
+matplotlib
+pytest
+pytest
