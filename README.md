@@ -1,5 +1,7 @@
 # COMP0035 Coursework 1 and 2 repository
 
+Summary: This is the repository for Courseworks 1 and 2 on the UCL course COMP0035: Applied Software Engineering. This course was the prerequisite for COMP0034 (see repository). In Coursework 1 an imaginary software development workflow was chosen, business needs were defined, and the dataset was explored in preparation for COMP0034. In Coursework 2 application requirements and software structures were formally established with story mapping, a UML diagram, an ERD (entity relationship diagram) and drawn wireframes.
+
 # Coursework 1
 
 ## Technical information
